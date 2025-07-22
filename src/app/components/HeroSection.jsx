@@ -30,7 +30,7 @@ export const HeroSection = () => {
             />
             </h1>
           <p className='text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6'>
-            I am not just a Coder, I'm a Product Engineer.
+            We are under-construction.
           </p>
 
           <div>
