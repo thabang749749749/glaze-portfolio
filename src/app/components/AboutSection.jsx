@@ -38,6 +38,7 @@ const TAB_DATA = [
       <ul className='list-disc pl-2'>
         <li>JavaScript Algorithms & Data Structures</li>
         <li>CyberSecurity Fundamentals</li>
+        <li>Full-Stack Web Development</li>
         <li>NQF-L4 IT Technical Support</li>
       </ul>
     )
