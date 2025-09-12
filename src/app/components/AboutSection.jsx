@@ -10,10 +10,13 @@ const TAB_DATA = [
     content: (
       <ul className='list-disc pl-2'>
         <li>JavaScript</li>
+        <li>Python</li>
         <li>React</li>
         <li>Node.js</li>
         <li>PostgreSQL</li>
+        <li>Flask</li>
         <li>Express</li>
+
       </ul>
     )
   },
@@ -57,7 +60,7 @@ const AboutSection = () => {
   };
 
   return (
-    <section className='text-white'>
+    <section className='text-white' id='about'>
       <div className='md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16'>
         <Image src="/images/about-image.jpg" height={500} width={500} alt="about image"/>
 
