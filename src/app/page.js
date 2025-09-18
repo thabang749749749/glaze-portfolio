@@ -5,7 +5,10 @@ import AboutSection from "./components/AboutSection";
 import ProjectsSection from "./components/ProjectsSection";
 import EmailSection from "./components/EmailSection";
 import Footer from "./components/Footer";
+<<<<<<< HEAD
 import AchievementsSection from "./components/AchievementSection";
+=======
+>>>>>>> c712ab1967b157e6b97707e4c2de9ed8a14a5357
 
 export default function Home() {
   return (
